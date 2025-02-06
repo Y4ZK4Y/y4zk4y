@@ -1,4 +1,14 @@
 ## Hi there 👋
+I write code. Sometimes it even works.
+Mostly I just refactor the same thing 13 timess before realizing the third versiion was fine.
+
+### About me
+- **Software engineering student** who works in **cybersecurity**
+- Engineering background, always curious about how things work
+- Currently learning **C++** as an elaborate way to test my patience
+
+I'm down to talk about security, cool stuff or whatever random thing you're passionate about.
+Feel free to look around and judge silently.
 
 <!--
 **Y4ZK4Y/y4zk4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
