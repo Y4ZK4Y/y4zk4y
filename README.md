@@ -4,7 +4,6 @@ Mostly I just refactor the same thing 13 timess before realizing the third versi
 
 ### About me
 - **Software engineering student** who works in **cybersecurity**
-- Engineering background, always curious about how things work
 - Currently learning **C++** as an elaborate way to test my patience
 
 I'm down to talk about security, cool stuff or whatever random thing you're passionate about.
